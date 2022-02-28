@@ -10,7 +10,7 @@
         "mew2.co": "",
         "3dom.rocks": "3dom"
     },
-    "rootRedirect": "https://angrymouse.hns.is/",
+    "rootRedirect": "http://mew2.co/",
     "defaultDomain": "hnsis",
     "siaNative": true,
     "siaPortals": ["https://skynetpro.dev/", "http://localhost:9980/skynet/skylink/", "https://siasky.net/"],
